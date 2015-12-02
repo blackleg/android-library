@@ -1,4 +1,4 @@
-package es.blackleg.apptest;
+package es.blackleg.android;
 
 import org.junit.Test;
 
